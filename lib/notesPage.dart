@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-
+ 
 
 class NotesArea extends StatefulWidget {
   const NotesArea({Key? key}) : super(key: key);
